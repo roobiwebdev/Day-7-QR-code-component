@@ -69,12 +69,9 @@ img {
 }
 
 @media screen and (width <= 355px) {
-  .card-main {
-  height: auto;
-  
-}
-  .card {
-    height: 100vh;
+   
+  .card-main, .card {
+    height: auto;
   }
 
   .card-title {
