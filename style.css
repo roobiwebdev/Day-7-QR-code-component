@@ -10,13 +10,14 @@ body {
   background: #d5e1ef;
   font-size: 1rem;
   font-family: "Outfit", sans-serif;
-}
-
-.card-main {
-  height: auto;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.card-main {
+
   padding: 0 2em;
 }
 
